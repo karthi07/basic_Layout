@@ -1,0 +1,22 @@
+div {
+  border: 2px solid green;
+}
+
+.nav {
+  min-height: 30px;
+}
+
+.main-ctn {
+  min-height: 800px;
+  display: flex;
+}
+
+.product-info {
+  min-height: 400px;
+  flex: 2;
+  justify-content: center;
+}
+
+.product-img {
+  flex: 1;
+}
